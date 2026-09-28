@@ -1,9 +1,6 @@
 🚁 UAV Clustering using White Shark Optimizer (WSO)
 An energy-aware clustering framework for UAV networks powered by the White Shark Optimizer — a bio-inspired metaheuristic algorithm.
 
-https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
-https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge
 
 📖 Overview
 This project implements an energy-efficient clustering scheme for Unmanned Aerial Vehicle (UAV) networks using the White Shark Optimizer (WSO) — a nature-inspired metaheuristic algorithm.
